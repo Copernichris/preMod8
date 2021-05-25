@@ -1,0 +1,15 @@
+HTML
+1. missing h1 tag for fan page title
+2. the href in the anchor for the wikipedia link was blank. Coppied wikipedia link.
+3. missing arrow brackets around the img class prevented the image from actually appearing
+4. li tags missing from the list of boo's favorite things
+5. The text for each color button was matched with the wrong color
+6. The source for the javascript file was error.js not logic.js
+
+CSS
+no issues found
+
+JS
+1. var booFacts was a string instead of an array. Quotations put around each element. 
+2. missing quotation marks around "pink" in the text pink function
+3. missing quotes around the work click in the shrink and grow funcitons 
